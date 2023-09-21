@@ -17,3 +17,4 @@ Hi, I'm Kim! I'm a game programming student @ [Futuregames Malmö](https://futur
 ## contact_info
 ### [Email](mailto:joakim.linna@edu.futuregames.nu?subject=Found%20you%20on%20Github&body=%0A%0A%0A---%20via%20Github%20---)
 ### [itch.io](https://kimcodekill.itch.io/)
+### [Personal Github](https://github.com/kimcodekill)
