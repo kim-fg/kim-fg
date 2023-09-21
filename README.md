@@ -12,7 +12,7 @@ Hi, I'm Kim! I'm a game programming student @ [Futuregames Malmö](https://futur
 - 3 favorite games
   1. Minecraft
   2. Terraria
-3. Ratchet and Clank (PS2)
+  3. Ratchet and Clank (PS2)
 
 ## contact_info
 ### [Email](mailto:joakim.linna@edu.futuregames.nu?subject=Found%20you%20on%20Github&body=%0A%0A%0A---%20via%20Github%20---)
